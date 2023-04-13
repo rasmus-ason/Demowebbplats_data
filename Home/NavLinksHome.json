@@ -1,0 +1,10 @@
+{
+  "values": [
+      { "navLinkName": "Home", "slug": "home" },
+      { "navLinkName": "About", "slug": "about" },
+      { "navLinkName": "Products", "slug": "products" },
+      { "navLinkName": "Services", "slug": "services" },
+      { "navLinkName": "Contact", "slug": "contact" }
+  ]
+}
+
