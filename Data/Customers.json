@@ -1,0 +1,92 @@
+{
+  "customers": [
+    {
+      "name": "Anna Andersson",
+      "lastActivityDate": "2022-03-28",
+      "type": "privat",
+      "email": "anna.andersson@example.com",
+      "totalValue": 5000,
+      "phone": "070-123 45 67",
+      "zipCode": "123 45",
+      "address": "Storgatan 1",
+      "city": "Stockholm"
+    },
+    {
+      "name": "Bengt Bengtsson",
+      "lastActivityDate": "2022-03-27",
+      "type": "företag",
+      "email": "bengt.bengtsson@example.com",
+      "totalValue": 7500,
+      "phone": "070-234 56 78",
+      "zipCode": "234 56",
+      "address": "Drottninggatan 2",
+      "city": "Göteborg"
+    },
+    {
+      "name": "Carl Carlsson",
+      "lastActivityDate": "2022-03-26",
+      "type": "privat",
+      "email": "carl.carlsson@example.com",
+      "totalValue": 10000,
+      "phone": "070-345 67 89",
+      "zipCode": "345 67",
+      "address": "Lilla Nygatan 3",
+      "city": "Malmö"
+    },
+    {
+      "name": "David Davidsson",
+      "lastActivityDate": "2022-03-25",
+      "type": "företag",
+      "email": "david.davidsson@example.com",
+      "totalValue": 2000,
+      "phone": "070-456 78 90",
+      "zipCode": "456 78",
+      "address": "Södergatan 4",
+      "city": "Uppsala"
+    },
+    {
+      "name": "Emma Eriksson",
+      "lastActivityDate": "2022-03-24",
+      "type": "privat",
+      "email": "emma.eriksson@example.com",
+      "totalValue": 3000,
+      "phone": "070-567 89 01",
+      "zipCode": "567 89",
+      "address": "Östra Hamngatan 5",
+      "city": "Göteborg"
+    },
+    {
+      "name": "Fredrik Fredriksson",
+      "lastActivityDate": "2022-03-23",
+      "type": "företag",
+      "email": "fredrik.fredriksson@example.com",
+      "totalValue": 6000,
+      "phone": "070-678 90 12",
+      "zipCode": "678 90",
+      "address": "Norrlandsgatan 6",
+      "city": "Stockholm"
+    },
+    {
+      "name": "Greta Gustafsson",
+      "lastActivityDate": "2022-03-22",
+      "type": "privat",
+      "email": "greta.gustafsson@example.com",
+      "totalValue": 8000,
+      "phone": "070-789 01 23",
+      "zipCode": "789 01",
+      "address": "Kungsgatan 7",
+      "city": "Malmö"
+    },
+	{
+	"name": "Björn Berg",
+	"lastActivityDate": "2022-03-25",
+	"type": "företag",
+	"email": "bjorn.berg@bergab.com",
+	"totalValue": 250000,
+	"phone": "08-123 45 67",
+	"zipCode": "123 45",
+	"address": "Företagsvägen 2",
+	"city": "Göteborg"
+	}
+]
+}
