@@ -1,0 +1,58 @@
+{
+  "sparepartsInfo": [
+    {
+      "title": "Elpatron 7/9 KW Res.D",
+      "artNr": 75344,
+      "sparepartTo": ["S1277CU", "S65656-R, S1255-P"],
+      "rekPrice": 3110.0,
+      "price": 2809.0,
+      "inStock": true,
+      "expressDelivery": true
+    },
+    {
+      "title": "Växelventilsats Honeywell växelventil",
+      "artNr": 123123,
+      "sparepartTo": ["S1234CU", "S65656-L, S1255-T"],
+      "rekPrice": 4112.0,
+      "price": 3790.0,
+      "inStock": false,
+      "expressDelivery": true
+    },
+    {
+      "title": "Växelventil Honeywell 28mm klämring ",
+      "artNr": 226754,
+      "sparepartTo": ["S1234JU", "S65656-P, S1255-E"],
+      "rekPrice": 1210.0,
+      "price": 998.0,
+      "inStock": true,
+      "expressDelivery": false
+    },
+    {
+      "title": "Motor För 3-vägsventil Res.d S1290",
+      "artNr": 987654,
+      "sparepartTo": ["S1234TG", "S65656-W, S1255-X"],
+      "rekPrice": 455.0,
+      "price": 399.0,
+      "inStock": true,
+      "expressDelivery": false
+    },
+    {
+      "title": "Växelventilsats Honeywell växelventil",
+      "artNr": 123123,
+      "sparepartTo": ["S1234CU", "S65656-L, S1255-T"],
+      "rekPrice": 4112.0,
+      "price": 3790.0,
+      "inStock": false,
+      "expressDelivery": true
+    },
+    {
+      "title": "Växelventil Honeywell 45mm klämring ",
+      "artNr": 226754,
+      "sparepartTo": ["S1234JU", "S65656-P, S1255-E"],
+      "rekPrice": 1210.0,
+      "price": 998.0,
+      "inStock": true,
+      "expressDelivery": false
+    }
+  ]
+}
