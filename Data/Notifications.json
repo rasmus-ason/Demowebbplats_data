@@ -1,18 +1,16 @@
 {
-	  "notifications": [
-		{
-		  "date": "5/7 2023",
-		  "text": "Nytt uppdrag från Nibe",
+	"notifications": [{
+			"date": "5/7 2023",
+			"text": "Nytt uppdrag från Nibe"
 		},
 		{
-		  "date": "7/8 2023",
-		  "text": "Försenad leverans",
+			"date": "7/8 2023",
+			"text": "Försenad leverans"
 		},
 		{
-		  "date": "8/8 2023",
-		  "text": "Meddelande från din säljare",
+			"date": "8/8 2023",
+			"text": "Meddelande från din säljare"
 		}
-	  ],
-	}
-
+	]
+}
 
