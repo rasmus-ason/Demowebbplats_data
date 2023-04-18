@@ -1,0 +1,95 @@
+{
+  "assignments": [
+    {
+      "type": "Installation",
+      "product": "Bergvärme",
+      "customerName": "Emma Johansson",
+      "address": "Storgatan 12",
+      "zipCode": "123 45",
+      "city": "Stockholm",
+      "date": "2022-01-15"
+    },
+    {
+      "type": "Garantiservice",
+      "product": "Luftvärmepump",
+      "customerName": "Erik Andersson",
+      "address": "Södergatan 8",
+      "zipCode": "543 21",
+      "city": "Göteborg",
+      "date": "2022-03-02"
+    },
+    {
+      "type": "Service",
+      "product": "Bergvärme",
+      "customerName": "Sara Karlsson",
+      "address": "Västra gatan 23",
+      "zipCode": "654 32",
+      "city": "Malmö",
+      "date": "2022-02-19"
+    },
+    {
+      "type": "Installation",
+      "product": "Luftvärmepump",
+      "customerName": "Johan Nilsson",
+      "address": "Norra gatan 17",
+      "zipCode": "345 67",
+      "city": "Uppsala",
+      "date": "2022-04-01"
+    },
+    {
+      "type": "Garantiservice",
+      "product": "Bergvärme",
+      "customerName": "Anna Berg",
+      "address": "Östra gatan 5",
+      "zipCode": "876 54",
+      "city": "Västerås",
+      "date": "2022-02-08"
+    },
+    {
+      "type": "Installation",
+      "product": "Bergvärme",
+      "customerName": "Eva Larsson",
+      "address": "Gamla gatan 9",
+      "zipCode": "789 01",
+      "city": "Örebro",
+      "date": "2022-03-15"
+    },
+    {
+      "type": "Garantiservice",
+      "product": "Luftvärmepump",
+      "customerName": "Anders Persson",
+      "address": "Centralgatan 3",
+      "zipCode": "234 56",
+      "city": "Linköping",
+      "date": "2022-01-28"
+    },
+    {
+      "type": "Service",
+      "product": "Bergvärme",
+      "customerName": "Linda Andersson",
+      "address": "Östergatan 13",
+      "zipCode": "456 78",
+      "city": "Jönköping",
+      "date": "2022-02-12"
+    },
+    {
+      "type": "Installation",
+      "product": "Luftvärmepump",
+      "customerName": "Martin Lundqvist",
+      "address": "Långgatan 7",
+      "zipCode": "567 89",
+      "city": "Helsingborg",
+      "date": "2022-03-22"
+    },
+    {
+      "type": "Garantiservice",
+      "product": "Bergvärme",
+      "customerName": "Maria Lindström",
+      "address": "Kortgatan 4",
+      "zipCode": "890 12",
+		"city": "Lund",
+		"date": "2022-01-03",
+  },
+]
+
+}
