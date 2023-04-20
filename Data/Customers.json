@@ -1,6 +1,7 @@
 {
   "customers": [
     {
+      "id" : 1,
       "name": "Anna Andersson",
       "lastActivityDate": "2022-03-28",
       "type": "privat",
@@ -12,6 +13,7 @@
       "city": "Stockholm"
     },
     {
+	    "id" : 2,
       "name": "Bengt Bengtsson",
       "lastActivityDate": "2022-03-27",
       "type": "företag",
@@ -23,6 +25,7 @@
       "city": "Göteborg"
     },
     {
+	    "id" : 3,
       "name": "Carl Carlsson",
       "lastActivityDate": "2022-03-26",
       "type": "privat",
@@ -34,6 +37,7 @@
       "city": "Malmö"
     },
     {
+	    "id" : 4,
       "name": "David Davidsson",
       "lastActivityDate": "2022-03-25",
       "type": "företag",
@@ -45,6 +49,7 @@
       "city": "Uppsala"
     },
     {
+	    "id" : 5,
       "name": "Emma Eriksson",
       "lastActivityDate": "2022-03-24",
       "type": "privat",
@@ -56,6 +61,7 @@
       "city": "Göteborg"
     },
     {
+	    "id" : 6,
       "name": "Fredrik Fredriksson",
       "lastActivityDate": "2022-03-23",
       "type": "företag",
@@ -67,6 +73,7 @@
       "city": "Stockholm"
     },
     {
+	    "id" : 7,
       "name": "Greta Gustafsson",
       "lastActivityDate": "2022-03-22",
       "type": "privat",
@@ -78,6 +85,7 @@
       "city": "Malmö"
     },
 	{
+		"id" : 8,
 	"name": "Björn Berg",
 	"lastActivityDate": "2022-03-25",
 	"type": "företag",
