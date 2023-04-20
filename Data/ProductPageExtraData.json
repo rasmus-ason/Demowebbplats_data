@@ -1,0 +1,103 @@
+{
+	"productSinglePage": {
+		"name": "Bergvärmepump",
+		"designation": "S1255",
+		"description": "The geothermal heat pump is an innovative and environmentally friendly solution for heating your home or workplace in a cost-effective way. By utilizing the heat stored in the ground, the geothermal heat pump can provide a consistent and comfortable indoor temperature throughout the year. With a geothermal heat pump, you can reduce your energy costs and contribute to a sustainable future by reducing your carbon footprint. Since the energy comes from nature, you don’t have to worry about fossil fuels running out or prices skyrocketing. The geothermal heat pump has a high efficiency and delivers a high amount of heat energy per unit of energy consumed, making it one of the most cost-effective heating methods on the market today. Additionally, it is easy to install and maintain. With our geothermal heat pump, you can enjoy a comfortable indoor temperature all year round while saving money and contributing to a sustainable future. Contact us today for more information on how a geothermal heat pump can fit your needs and budget.",
+		"cons": [{
+				"text": "Energy-efficient"
+			},
+			{
+				"text": "Low operating cost"
+			},
+			{
+				"text": "Long lifespan"
+			},
+			{
+				"text": "Requires professional installation"
+			},
+			{
+				"text": "May not be suitable for all climates"
+			}
+		],
+		"technicalData": [{
+				"name": "Power",
+				"value": "10 kW"
+			},
+			{
+				"name": "Operating temperature",
+				"value": "-25°C to 35°C"
+			},
+			{
+				"name": "Dimensions",
+				"value": "1200 x 600 x 800 mm"
+			},
+			{
+				"name": "Noise level",
+				"value": "45 dB"
+			},
+			{
+				"name": "Maximum flow rate",
+				"value": "12 l/s"
+			},
+			{
+				"name": "Weight",
+				"value": "200 kg"
+			}
+		],
+		"spareparts": [
+			"Heat pump tank",
+			"Heat pump hose",
+			"Heat pump battery"
+		],
+		"pricelist": [{
+				"model": "Model X",
+				"energyClass": "A++",
+				"rskNumber": "123456",
+				"recommendedPrice": "5000"
+			},
+			{
+				"model": "Model Y",
+				"energyClass": "A+++",
+				"rskNumber": "789012",
+				"recommendedPrice": "7000"
+			},
+			{
+				"model": "Model Z",
+				"energyClass": "A+",
+				"rskNumber": "345678",
+				"recommendedPrice": "6000"
+			}
+		]
+	},
+
+	"productSinglePageColumns": [{
+			"key": "model",
+			"header": "Model"
+		},
+		{
+			"key": "energyClass",
+			"header": "Energiklass"
+		},
+		{
+			"key": "rskNumber",
+			"header": "RSK-nummer"
+		},
+		{
+			"key": "recommendedPrice",
+			"header": "Rek- pris inkl. moms"
+		}
+	],
+
+	"extraInfoPriceList": {
+		"textBox": [{
+				"text": "Denna produkten är BBR-anpassad för att upfylla Boverkets byggregler"
+			},
+			{
+				"text": "NIBEs trygghetsförsäkring kompletterar din vills/fritidshusförsäkring och ersätter självrisk upp till 3000 kr och hela avskrivningen"
+			},
+			{
+				"text": "Vi har tre års garanti på alla våra produkter"
+			}
+		]
+	}
+}
