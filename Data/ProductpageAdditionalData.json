@@ -1,9 +1,15 @@
 {
-  "extraInfoPriceList" : 
-		   [
-         "Denna produkten är BBR-anpassad för att upfylla Boverkets byggregler", 
-         "NIBEs trygghetsförsäkring kompletterar din vills/fritidshusförsäkring och ersätter självrisk upp till 3000 kr och hela avskrivningen",
-         "Vi har tre års garanti på alla våra produkter" 
-       ]
-
+	"extraInfoPriceList": {
+		"textBox": [
+			{
+				"text": "Denna produkten är BBR-anpassad för att upfylla Boverkets byggregler"
+			},
+			{
+				"text": "NIBEs trygghetsförsäkring kompletterar din vills/fritidshusförsäkring och ersätter självrisk upp till 3000 kr och hela avskrivningen"
+			},
+			{
+				"text": "Vi har tre års garanti på alla våra produkter"
+			}
+		]
+	}
 }
