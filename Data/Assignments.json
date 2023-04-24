@@ -1,6 +1,7 @@
 {
   "assignments": [
     {
+"id" : 1,
       "type": "Installation",
       "product": "Bergvärme",
       "customerName": "Emma Johansson",
@@ -10,6 +11,7 @@
       "date": "2022-01-15"
     },
     {
+	    "id" : 2,
       "type": "Garantiservice",
       "product": "Luftvärmepump",
       "customerName": "Erik Andersson",
@@ -19,6 +21,7 @@
       "date": "2022-03-02"
     },
     {
+	    "id" : 3,
       "type": "Service",
       "product": "Bergvärme",
       "customerName": "Sara Karlsson",
@@ -28,6 +31,7 @@
       "date": "2022-02-19"
     },
     {
+	    "id" : 4,
       "type": "Installation",
       "product": "Luftvärmepump",
       "customerName": "Johan Nilsson",
@@ -37,6 +41,7 @@
       "date": "2022-04-01"
     },
     {
+	    "id" : 5,
       "type": "Garantiservice",
       "product": "Bergvärme",
       "customerName": "Anna Berg",
@@ -46,6 +51,7 @@
       "date": "2022-02-08"
     },
     {
+	    "id" : 6,
       "type": "Installation",
       "product": "Bergvärme",
       "customerName": "Eva Larsson",
@@ -55,6 +61,7 @@
       "date": "2022-03-15"
     },
     {
+	    "id" : 7,
       "type": "Garantiservice",
       "product": "Luftvärmepump",
       "customerName": "Anders Persson",
@@ -64,6 +71,7 @@
       "date": "2022-01-28"
     },
     {
+	    "id" : 8,
       "type": "Service",
       "product": "Bergvärme",
       "customerName": "Linda Andersson",
@@ -73,6 +81,7 @@
       "date": "2022-02-12"
     },
     {
+	    "id" : 9,
       "type": "Installation",
       "product": "Luftvärmepump",
       "customerName": "Martin Lundqvist",
@@ -82,6 +91,7 @@
       "date": "2022-03-22"
     },
     {
+	    "id" : 10,
       "type": "Garantiservice",
       "product": "Bergvärme",
       "customerName": "Maria Lindström",
