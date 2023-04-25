@@ -1,10 +1,13 @@
 {
   "values": [
-      { "navLinkName": "Home", "slug": "home" },
-      { "navLinkName": "About", "slug": "about" },
-      { "navLinkName": "Products", "slug": "products" },
-      { "navLinkName": "Services", "slug": "services" },
-      { "navLinkName": "Contact", "slug": "contact" }
+      { "navLinkName": "Overview", "slug": "overview" },
+      { "navLinkName": "Technical Data", "slug": "technicaldata" },
+      { "navLinkName": "Add-ons", "slug": "add-ons" },
+      { "navLinkName": "Spareparts", "slug": "spareparts" },
+      { "navLinkName": "Education", "slug": "education" },
+      { "navLinkName": "Document", "slug": "document" },
+      { "navLinkName": "FAQ", "slug": "faq" },
+      { "navLinkName": "My Uplink", "slug": "myuplink" }
   ]
 }
 
