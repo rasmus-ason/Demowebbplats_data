@@ -35,24 +35,6 @@
       "price": 399.0,
       "inStock": true,
       "expressDelivery": false
-    },
-    {
-      "title": "Växelventilsats Honeywell växelventil",
-      "artNr": 123123,
-      "sparepartTo": ["S1234CU", "S65656-L, S1255-T"],
-      "rekPrice": 4112.0,
-      "price": 3790.0,
-      "inStock": false,
-      "expressDelivery": true
-    },
-    {
-      "title": "Växelventil Honeywell 45mm klämring ",
-      "artNr": 226754,
-      "sparepartTo": ["S1234JU", "S65656-P, S1255-E"],
-      "rekPrice": 1210.0,
-      "price": 998.0,
-      "inStock": true,
-      "expressDelivery": false
     }
   ]
 }
