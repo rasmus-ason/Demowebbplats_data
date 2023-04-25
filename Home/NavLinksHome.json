@@ -1,13 +1,13 @@
 {
   "values": [
       { "navLinkName": "Overview", "slug": "overview" },
-      { "navLinkName": "Technical Data", "slug": "technicaldata" },
+      { "navLinkName": "Technical Data", "slug": "technical data" },
       { "navLinkName": "Add-ons", "slug": "add-ons" },
       { "navLinkName": "Spareparts", "slug": "spareparts" },
       { "navLinkName": "Education", "slug": "education" },
       { "navLinkName": "Document", "slug": "document" },
       { "navLinkName": "FAQ", "slug": "faq" },
-      { "navLinkName": "My Uplink", "slug": "myuplink" }
+      { "navLinkName": "My Uplink", "slug": "my uplink" }
   ]
 }
 
