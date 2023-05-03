@@ -1,18 +1,18 @@
 {
 	"notifications": [{
-			"id: 1,
+			"id": 1,
 			"date": "5/7 2023",
 			"text": "Nytt uppdrag från Nibe",
 			"extendedText" : "Extra text om notis 1"
 		},
 		{
-			"id: 2,
+			"id": 2,
 			"date": "7/8 2023",
 			"text": "Försenad leverans",
 			"extendedText" : "Extra text om notis 2"
 		},
 		{
-			"id: 3,
+			"id": 3,
 			"date": "8/8 2023",
 			"text": "Meddelande från din säljare",
 			"extendedText" : "Extra text om notis 3"
