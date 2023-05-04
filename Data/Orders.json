@@ -5,7 +5,7 @@
 		"customerId": 1,
 		"orderNumber": 12345678,
 		"orderDate" : "2022-03-23",
-		"deliveryTime: : "14.00-16.00",
+		"deliveryTime": : "14.00-16.00",
 		"deliveryDate": "2022-03-31",
 		"status": "delivered",
 		"totalAmount": 750.0
@@ -15,7 +15,7 @@
 		"customerId": 1,
 		"orderNumber": 23456789,
 		"orderDate" : "2022-03-23",
-		  "deliveryTime: : "14.00-16.00",
+		  "deliveryTime" : : "14.00-16.00",
 		"deliveryDate": "2022-03-31",
 		"status": "shipped",
 		"totalAmount": 1250.0
@@ -25,7 +25,7 @@
 		"customerId": 2,
 		"orderNumber": 34567890,
 		"orderDate" : "2022-03-23",
-		  "deliveryTime: : "08.00-10.00",
+		  "deliveryTime": : "08.00-10.00",
 		"deliveryDate": "2022-03-31",
 		"status": "received",
 		"totalAmount": 1750.0
@@ -35,7 +35,7 @@
 		  "customerId": 2,
 		"orderNumber": 45678901,
 		"orderDate" : "2022-03-23",
-		  "deliveryTime: : "15.00-17.00",
+		  "deliveryTime": : "15.00-17.00",
 		"deliveryDate": "2022-03-31",
 		"status": "delivered",
 		"totalAmount": 950.0
@@ -45,7 +45,7 @@
 		  "customerId": 3,
 		"orderNumber": 56789012,
 		"orderDate" : "2022-03-23",
-		  "deliveryTime: : "14.00-16.00",
+		  "deliveryTime": : "14.00-16.00",
 		"deliveryDate": "2022-03-31",
 		"status": "shipped",
 		"totalAmount": 1650.0
@@ -55,7 +55,7 @@
 		  "customerId": 3,
 		"orderNumber": 67890123,
 		"orderDate" : "2022-03-23",
-		  "deliveryTime: : "12.00-15.00",
+		  "deliveryTime": : "12.00-15.00",
 		"deliveryDate": "2022-03-31",
 		"status": "received",
 		"totalAmount": 850.0
@@ -65,7 +65,7 @@
 		  "customerId": 4,
 		"orderNumber": 78901234,
 		"orderDate" : "2022-03-23",
-		  "deliveryTime: : "13.00-16.00",
+		  "deliveryTime": : "13.00-16.00",
 		"deliveryDate": "2022-03-31",
 		"status": "delivered",
 		"totalAmount": 1350.0
@@ -75,7 +75,7 @@
 		  "customerId": 4,
 		"orderNumber": 89012345,
 		"orderDate" : "2022-03-23",
-		  "deliveryTime: : "09.00-11.00",
+		  "deliveryTime": : "09.00-11.00",
 		"deliveryDate": "2022-03-31",
 		"status": "shipped",
 		"totalAmount": 2250.0
@@ -85,7 +85,7 @@
 		  "customerId": 5,
 		"orderNumber": 90123456,
 		"orderDate" : "2022-03-23",
-		  "deliveryTime: : "14.00-16.00",
+		  "deliveryTime": : "14.00-16.00",
 		"deliveryDate": "2022-03-31",
 		"status": "received",
 		"totalAmount": 950.0
@@ -95,7 +95,7 @@
 		  "customerId": 5,
 		"orderNumber": 12345001,
 		"orderDate" : "2022-03-23",
-		  "deliveryTime: : "13.00-16.00",
+		  "deliveryTime": : "13.00-16.00",
 		"deliveryDate": "2022-03-31",
 		"status": "delivered",
 		"totalAmount": 750.0
@@ -105,7 +105,7 @@
 		  "customerId": 6,
 		"orderNumber": 23456112,
 		"orderDate" : "2022-03-23",
-		  "deliveryTime: : "15.00-17.00",
+		  "deliveryTime": : "15.00-17.00",
 		"deliveryDate": "2022-03-31",
 		"status": "shipped",
 		"totalAmount": 1850.0
@@ -115,7 +115,7 @@
 		  "customerId": 6,
 		"orderNumber": 34567223,
 		"orderDate" : "2022-03-23",
-		  "deliveryTime: : "13.00-15.00",
+		  "deliveryTime": : "13.00-15.00",
 		"deliveryDate": "2022-03-31",
 		"status": "received",
 		"totalAmount": 950.0
@@ -125,7 +125,7 @@
 		  "customerId": 7,
 		"orderNumber": 45678334,
 		"orderDate" : "2022-03-23",
-		  "deliveryTime: : "14.00-16.00",
+		  "deliveryTime": : "14.00-16.00",
 		"deliveryDate": "2022-03-31",
 		"status": "delivered",
 		"totalAmount": 1150.0
@@ -135,7 +135,7 @@
 		  "customerId": 7,
 		"orderNumber": 56789445,
 		"orderDate" : "2022-03-23",
-		  "deliveryTime: : "08.00-11.00",
+		  "deliveryTime": : "08.00-11.00",
 		"deliveryDate": "2022-03-31",
 		"status": "shipped",
 		"totalAmount": 1550.0
@@ -145,7 +145,7 @@
 		  "customerId": 8,
 		"orderNumber": 67890556,
 		"orderDate" : "2022-03-23",
-		  "deliveryTime: : "12.00-15.00",
+		  "deliveryTime": : "12.00-15.00",
 		"deliveryDate": "2022-03-31",
 		"status": "received",
 		"totalAmount": 950.0
