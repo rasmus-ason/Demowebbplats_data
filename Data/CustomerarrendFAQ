@@ -3,27 +3,13 @@
   {
 			"id": 1,
 			"question": "Vad är Smart Price Adaption (SPA)?",
-			"answer": "En värmepump reagerar i vanliga fall på rums- eller utomhustemperaturen. När det finns värmebehov går den i gång och när det är tillräckligt varmt stängs den av.
-
-      Med Smart Price Adaption tar den dessutom hänsyn till elpriset innan den gör det ena eller andra. I allmänhet är elpriserna högre på dagen när behovet är som störst hos bland annat industrin, men det finns stora skillnader i när den dyra tiden kommer och går och den informationen får värmepumpen från elbörsen dygnet innan. En värmepump från NIBE kan dra nytta av informationen om elpriser på smarta sätt och använda den för att producera både värme och varmvatten till lågt pris. Ett exempel: Det börjar bli kallare vid 16.00. I normala fall hade värmepumpen startat då, men om den ”vet” att priset sjunker vid 17.00 så kan den i stället vänta till dess. Den kan också ”passa på” att ladda värme och varmvatten på småtimmarna när elpriserna är låga, så att den inte behöver använda lika mycket energi när dagen gryr och elpriserna går upp. För att inte kompromissa med komforten ser värmepumpen till att behoven tillfredsställs, den minskar alltså inte energibehovet utan flyttar det till de billigare timmarna*.
-
-      En NIBE-värmepump har också en funktion som kallas Smart Control som aktiveras tillsammans med Smart Price Adaption. Den ”lär sig” förbrukningsmönstret för varmvatten. Vanligtvis värmer en värmepump upp varmvatten så fort det förbrukats utan hänsyn till när behovet uppstår nästa gång. En värmepump från NIBE ”vet” att det i normala fall är färdigduschat och med Smart Price Adaptions kunskap om elpriserna kanske den väntar med att värma upp nytt vatten till sent samma eftermiddag. Om man gör avsteg från förbrukningsmönstret, eller har en oregelbunden varmvattenförbrukning har värmepumpen svårare att veta när den kan spara in på varmvatten. Eftersom prioriteringen är komfort hålls då varmvattenkapaciteten på en högre nivå för att möta behovet när det än uppstår.
-
-      *Kräver rörligt timprisavtal hos ditt elhandelsbolag"
+			"answer": "En värmepump reagerar i vanliga fall på rums- eller utomhustemperaturen. När det finns värmebehov går den i gång och när det är tillräckligt varmt stängs den av. Med Smart Price Adaption tar den dessutom hänsyn till elpriset innan den gör det ena eller andra. I allmänhet är elpriserna högre på dagen när behovet är som störst hos bland annat industrin, men det finns stora skillnader i när den dyra tiden kommer och går och den informationen får värmepumpen från elbörsen dygnet innan. En värmepump från NIBE kan dra nytta av informationen om elpriser på smarta sätt och använda den för att producera både värme och varmvatten till lågt pris. Ett exempel: Det börjar bli kallare vid 16.00. I normala fall hade värmepumpen startat då, men om den ”vet” att priset sjunker vid 17.00 så kan den i stället vänta till dess. Den kan också ”passa på” att ladda värme och varmvatten på småtimmarna när elpriserna är låga, så att den inte behöver använda lika mycket energi när dagen gryr och elpriserna går upp. För att inte kompromissa med komforten ser värmepumpen till att behoven tillfredsställs, den minskar alltså inte energibehovet utan flyttar det till de billigare timmarna*. En NIBE-värmepump har också en funktion som kallas Smart Control som aktiveras tillsammans med Smart Price Adaption. Den ”lär sig” förbrukningsmönstret för varmvatten. Vanligtvis värmer en värmepump upp varmvatten så fort det förbrukats utan hänsyn till när behovet uppstår nästa gång. En värmepump från NIBE ”vet” att det i normala fall är färdigduschat och med Smart Price Adaptions kunskap om elpriserna kanske den väntar med att värma upp nytt vatten till sent samma eftermiddag. Om man gör avsteg från förbrukningsmönstret, eller har en oregelbunden varmvattenförbrukning har värmepumpen svårare att veta när den kan spara in på varmvatten. Eftersom prioriteringen är komfort hålls då varmvattenkapaciteten på en högre nivå för att möta behovet när det än uppstår. *Kräver rörligt timprisavtal hos ditt elhandelsbolag"
 			
 		},
     {
 			"id": 2,
 			"question": "Hur aktiverar jag Smart Price Adaption",
-			"answer": "För att aktivera funktionen behöver du vara uppkopplad på myUplink eller NIBE Uplink beroende på vilken produkt du har. Du aktiverar sedan enkelt Smart Price Adaption i din värmepump.
-
-      Har du en värmepump i NIBE S-serien hittar du aktiveringen i meny 4.2.5. Motsvarande för F-serien är meny 4.1.6 Plusfunktioner.
-
-      Där kan du aktivera Smart Price Adaption, välja vilken elpriszon du bor i och välja vilka funktioner i värmepumpen du vill ska påverkas av elpris.
-
-      Påverkansgraden är en skala på hur stor påverkan elpriset ska ha. Stor påverkan kan ha viss inverkan på komfort.
-
-      En förutsättning för ev. besparing av elkostnaden är ett timprisavtal där elpriset sätts per timme."
+			"answer": "För att aktivera funktionen behöver du vara uppkopplad på myUplink eller NIBE Uplink beroende på vilken produkt du har. Du aktiverar sedan enkelt Smart Price Adaption i din värmepump. Har du en värmepump i NIBE S-serien hittar du aktiveringen i meny 4.2.5. Motsvarande för F-serien är meny 4.1.6 Plusfunktioner. Där kan du aktivera Smart Price Adaption, välja vilken elpriszon du bor i och välja vilka funktioner i värmepumpen du vill ska påverkas av elpris. Påverkansgraden är en skala på hur stor påverkan elpriset ska ha. Stor påverkan kan ha viss inverkan på komfort. En förutsättning för ev. besparing av elkostnaden är ett timprisavtal där elpriset sätts per timme."
 			
 		},
     {
@@ -35,21 +21,13 @@
     {
 			"id": 4,
 			"question": "Min produkt larmar för korta drifttider, vad ska jag göra?",
-			"answer": "Larmet uppkommer om kompressorn vid tre tillfällen i rad stannat kort tid efter start. Larmet kan uppkomma vid dåligt flöde eller dålig värmeöverföring, t.ex. vid stängda termostater eller luft i systemet. Börja med att kontrollera att inga termostater är stängda så att flöde säkerställs, samt att värmesystemet är ordentligt urluftat.
-
-      Hjälper inget av ovanstående så kontakta din installatör eller ett NIBE auktoriserat serviceombud
-
-      Leta efter flera tips genom att söka i Frågor & Svar eller i er Användarhandbok/ Skötsel- och Monteringsanvisning."
+			"answer": "Larmet uppkommer om kompressorn vid tre tillfällen i rad stannat kort tid efter start. Larmet kan uppkomma vid dåligt flöde eller dålig värmeöverföring, t.ex. vid stängda termostater eller luft i systemet. Börja med att kontrollera att inga termostater är stängda så att flöde säkerställs, samt att värmesystemet är ordentligt urluftat. Hjälper inget av ovanstående så kontakta din installatör eller ett NIBE auktoriserat serviceombud. Leta efter flera tips genom att söka i Frågor & Svar eller i er Användarhandbok/ Skötsel- och Monteringsanvisning."
 			
 		},
     {
 			"id": 5,
 			"question": "Behöver jag serva värmepumpen",
-			"answer": "NIBE ställer inga krav på årlig service, men är aldrig fel att göra en funktionskontroll av anläggningen vart 2–3:e år. Då görs en kontroll och genomgång av värmepumpen för att säkerställa drift och driftförhållande.
-
-      Sköt om din värmeanläggning genom att regelbundet kontrollera filter och vid behov avlufta anläggningen. Misstänker du att din anläggning inte beter sig som den ska, så kontakta din installatör som bäst känner till dina förhållande eller någon av våra auktoriserade serviceombud.
-
-      Leta efter flera tips genom att söka i Frågor & Svar eller i er Användarhandbok/ Skötsel- och Monteringsanvisning."
+			"answer": "NIBE ställer inga krav på årlig service, men är aldrig fel att göra en funktionskontroll av anläggningen vart 2–3:e år. Då görs en kontroll och genomgång av värmepumpen för att säkerställa drift och driftförhållande. Sköt om din värmeanläggning genom att regelbundet kontrollera filter och vid behov avlufta anläggningen. Misstänker du att din anläggning inte beter sig som den ska, så kontakta din installatör som bäst känner till dina förhållande eller någon av våra auktoriserade serviceombud. Leta efter flera tips genom att söka i Frågor & Svar eller i er Användarhandbok/ Skötsel- och Monteringsanvisning."
 			
 		}
     
