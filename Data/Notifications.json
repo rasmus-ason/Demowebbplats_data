@@ -3,21 +3,21 @@
 			"id": 1,
 			"date": "5/7 2023",
 			"text": "Nytt uppdrag från Nibe",
-			"extendedText" : "Extra text om notis 1",
+			"extendedText" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
 			"key" : "Assignments"
 		},
 		{
 			"id": 2,
 			"date": "7/8 2023",
 			"text": "Försenad leverans",
-			"extendedText" : "Extra text om notis 2",
+			"extendedText" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
 			"key" : "Overview"
 		},
 		{
 			"id": 3,
 			"date": "8/8 2023",
 			"text": "Meddelande från din säljare",
-			"extendedText" : "Extra text om notis 3",
+			"extendedText" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
 			"key" : "Arrends"
 		}
 	]
