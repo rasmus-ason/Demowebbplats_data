@@ -1,9 +1,0 @@
-{
-  "values": [
-      { "navLinkName": "Felsökning", "slug": "debugging" },
-        { "navLinkName": "Åtgärder", "slug": "actions" },
-        { "navLinkName": "FAQ", "slug": "faq" },
-    { "navLinkName": "Reservdelar", "slug": "spareparts" },
-        { "navLinkName": "Offert", "slug": "offer" }
-  ]
-}

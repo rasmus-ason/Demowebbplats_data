@@ -1,8 +1,0 @@
-
-{
-  "values": [
-      { "navLinkName": "Overview", "slug": "home" },
-        { "navLinkName": "Technical Data", "slug": "technicaldata" },
-        { "navLinkName": "Spare Parts", "slug": "spareparts" }
-  ]
-}
